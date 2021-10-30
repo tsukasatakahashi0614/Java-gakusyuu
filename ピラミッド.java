@@ -7,7 +7,7 @@ class ピラミッド
         System.out.print(" ");
       }
       for(int k=0; k<(5-i)*2-1; k++){
-        System.out.print("*");
+        System.out.print("+");
       }
       System.out.print("\n");
     }
